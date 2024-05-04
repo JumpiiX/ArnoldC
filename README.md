@@ -30,4 +30,5 @@ Follow these steps to get a copy of the project up and running on your local mac
 
 3. **Compile and run an ArnoldC program:**
 
+```bash
 java -jar ../ArnoldC.jar hello.arnoldc
