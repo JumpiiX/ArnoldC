@@ -1,1 +1,2 @@
-*.arnoldc linguist-language=Other
+*.extension linguist-detectable=true
+*.extension linguist-language=Other
